@@ -3,7 +3,7 @@
 ![QnA-Overview](qna_github.png)
 
 ---
-### Updates  (Feb. 22):
+### Updates  (Feb. 11):
 
 - Implementation of QnA layer and other components are available
 - QnA-ViT and training code will be released later this month
